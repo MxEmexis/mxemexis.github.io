@@ -4,10 +4,6 @@ body{
 	padding: 10%;
 }
 
-h1{
-	color: yellow;
-}
-
 table{
 	border-color: white;
 border-collapse: collapse;

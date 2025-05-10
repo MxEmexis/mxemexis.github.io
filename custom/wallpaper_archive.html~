@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<html lang="">
+  <head>
+    <meta charset="utf-8">
+    <title>Wallpaper Archive</title>
+    <link rel="stylesheet" type="text/css" href="../stylesheets/main.css">
+    <meta name="viewport" content=
+    "width=device-width, initial-scale=1.0">
+<body>
+
+<p><a href="../index.html"> <----- Back to Index</a></p>
+
+<div style="text-align: center;">
+
+<div><h1>My Custom Wallpapers</h1>
+<p>I originally made these for myself, but I think that someone might like them as well.</p>
+<i>(Click to see the full images)</i></div>
+<br>
+<hr size="5" width="50%">
+<br>
+
+<a href="../files/wallpapers/krystal_pape.png"><img src="../files/wallpapers/krystal_pape_thumbnail.jpeg" width="300" height="240" border="1" align="middle"></a>
+<p><strong>Krystal</strong></p>
+<p>| 5:4 | 1280x1024 |</p>
+<p><i>Made with Photoshop 6.0</i></p>
+
+</div>
+
+</body>
+</html>    
